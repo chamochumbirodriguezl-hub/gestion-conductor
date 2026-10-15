@@ -1,0 +1,6 @@
+{
+  "name": "TransControl 360 - Operaciones, Checklist y Facturación",
+  "description": "Sistema integral de gestión de flotas de carga pesada: checklist preventivo móvil, trazabilidad de evidencias geolocalizadas por etapas, torre de control y liquidación cruzada para facturación.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
